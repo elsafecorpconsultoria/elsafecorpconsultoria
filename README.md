@@ -1,11 +1,11 @@
 ### Olá!! Eu sou o Marcio Jose Martinho 👋
 
 
-- 🔭 Hoje trabalho como Coordenador de Tie Consultoria em segurança
+- 🔭 Hoje trabalho como Coordenador de Ti, Consultoria em segurança
 - 🌱 Pós graduando em Cybersecurity e Ethical Hacking.
 - 👯 Graduado em Analise e Desenvolvimento de Sistemas.
-- 🤔 Certificado C|SCU Certified Secure Computer User
-- 💬 Sistemas Operacionais:Linux,Windows
+- 🤔 Certificado C|SCU Certified Secure Computer User.
+- 💬 Sistemas Operacionais:Linux,Windows,Android
 - 📫 Meu email marciojmartinho@gmail.com
 - 😄 A imaginação é mais importante que o conhecimento. O conhecimento é limitado. A imaginação circunda o mundo.
 - ⚡ 
